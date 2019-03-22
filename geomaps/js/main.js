@@ -1,6 +1,6 @@
 
 // Week Two - Day One
 
-function(){
+function test(){
 
 }
