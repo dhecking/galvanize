@@ -1,12 +1,12 @@
 'use strict';
-
+/*
 Array.prototype.myMap = function(callback) {
     var arr = [];
     for (var i = 0; i < this.length; i++)
         arr.push(callback(this[i], i, this));
     return arr;
 };
-
+*/
 // -----------------------------------
 
 function name(n){
@@ -20,7 +20,7 @@ var goodT = arrs.map(name);
 
 var squareRoot = numbers2.map(function(num) {
     //return num;
-     return Math.sqrt(num);
+     return Math.sqrt(num) * 9;
 });
 
 console.log(goodT); 
