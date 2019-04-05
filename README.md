@@ -6,6 +6,6 @@
 ###### used to efficently launch your companies vision into the market
 
 stream.me
-https://dhecking.github.io/galvenize/geomaps
+https://dhecking.github.io/galvanize/geomaps
 A startup that collects live streams of mental, physical and digital metrics so as to provide 
 for a longer, safer and healthy existance.
